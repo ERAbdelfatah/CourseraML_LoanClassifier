@@ -1,1 +1,1 @@
-# Coursera_ML_FinalProject
+# CourseraML_LoanClassifier
